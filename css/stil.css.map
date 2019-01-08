@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AAAA,EAAG;EACC,KAAK,EAAE,IAAI",
+"sources": ["../scss/stil.scss"],
 "names": [],
 "file": "stil.css"
 }
